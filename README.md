@@ -1,7 +1,7 @@
 # Java CLI Menu
 This is a simple way to create and execute command line menus in Java.
 Here is an example of implementation:
-'''
+```java
 public class MenuDemo extends Menu {
 
     public MenuDemo() {
@@ -21,4 +21,4 @@ public class MenuDemo extends Menu {
     }
     
 }
-'''
+```
