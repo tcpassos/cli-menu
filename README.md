@@ -22,12 +22,10 @@ public class MenuDemo extends Menu {
     
 }
 ```
-<br/>And the main method...\
+<br/>And the main method...
 ```java
     public static void main(String[] args) {
-        
         MenuDemo menu = new MenuDemo();
         menu.execute();
-        
     }
 ```
